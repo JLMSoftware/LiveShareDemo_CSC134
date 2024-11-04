@@ -5,7 +5,7 @@
 double getLength();
 double getWidth();
 double getArea();
-void displayData();
+void displayData(double length, double width, double area);
 int main()
 {
 	// This program calculates the area of a rectangle.
